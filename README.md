@@ -31,10 +31,10 @@ You can find this plugin in the AssetLib of Godot Engine Editor. Just download i
 (Remember to activate this plugin)  
 
 #### Current version
-To check all the features included in the current version, please read the [VERSION file](./VERSION.md)
+To check all the features included in the current version, please read the [VERSION file](addons/file-editor/VERSION.md)
 
 #### Upcoming features
-To check all the features I'm currently working on, please read the [TODO file](./TODO.md)
+To check all the features I'm currently working on, please read the [TODO file](addons/file-editor/TODO.md)
 
 # Want to contact me?  
 I'm planning to create a Discord group to collect each plugin I've made (and I will make), but until then you can directly talk with my via e-mail at *n.santilio97@gmail.com*  
